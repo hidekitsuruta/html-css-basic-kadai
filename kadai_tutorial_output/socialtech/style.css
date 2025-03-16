@@ -15,7 +15,6 @@
   header {
     display: flex;
     justify-content: space-between;
-    height: 80px;
     }
     #nav-pc {
         font-size: 14px;
